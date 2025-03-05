@@ -68,10 +68,10 @@ require (
 	github.com/go-playground/universal-translator v0.18.1
 	github.com/go-playground/validator/v10 v10.24.0
 	github.com/golang-jwt/jwt/v5 v5.2.1
-	github.com/google/go-sev-guest v0.12.2-0.20250205052930-65042ded71f9
-	github.com/google/go-tdx-guest v0.3.1
+	github.com/google/go-sev-guest v0.13.0
+	github.com/google/go-tdx-guest v0.3.2-0.20241009005452-097ee70d0843
 	github.com/google/go-tpm v0.9.3
-	github.com/google/go-tpm-tools v0.4.4
+	github.com/google/go-tpm-tools v0.4.5
 	github.com/google/uuid v1.6.0
 	github.com/googleapis/gax-go/v2 v2.14.1
 	github.com/gophercloud/gophercloud/v2 v2.4.0
@@ -204,14 +204,14 @@ require (
 	github.com/coredns/caddy v1.1.1 // indirect
 	github.com/coredns/corefile-migration v1.0.24 // indirect
 	github.com/coreos/go-semver v0.3.1 // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.4 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.6 // indirect
 	github.com/cyberphone/json-canonicalization v0.0.0-20220623050100-57a0ce2678a7 // indirect
 	github.com/cyphar/filepath-securejoin v0.3.6 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/distribution/reference v0.6.0 // indirect
-	github.com/docker/cli v27.1.1+incompatible // indirect
+	github.com/docker/cli v27.5.0+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
-	github.com/docker/docker-credential-helpers v0.7.0 // indirect
+	github.com/docker/docker-credential-helpers v0.8.2 // indirect
 	github.com/docker/go-connections v0.5.0 // indirect
 	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
@@ -253,11 +253,13 @@ require (
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/btree v1.1.3 // indirect
 	github.com/google/certificate-transparency-go v1.1.8 // indirect
+	github.com/google/gce-tcb-verifier v0.2.3-0.20240905212129-12f728a62786 // indirect
 	github.com/google/gnostic-models v0.6.8 // indirect
 	github.com/google/go-attestation v0.5.1 // indirect
-	github.com/google/go-cmp v0.6.0 // indirect
-	github.com/google/go-configfs-tsm v0.2.2 // indirect
-	github.com/google/go-containerregistry v0.20.2 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
+	github.com/google/go-configfs-tsm v0.3.3-0.20240919001351-b4b5b84fdcbc // indirect
+	github.com/google/go-containerregistry v0.20.3 // indirect
+	github.com/google/go-eventlog v0.0.2-0.20241003021507-01bb555f7cba // indirect
 	github.com/google/go-tspi v0.3.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/logger v1.1.1 // indirect
